@@ -1,1 +1,1 @@
-console.log("new");
+console.log("new is going to main");
