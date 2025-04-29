@@ -1,2 +1,1 @@
-console.log("something");
-console.log("merged or not");
+console.log("new");
